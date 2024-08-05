@@ -1,0 +1,2 @@
+looker: https://lookerstudio.google.com/s/g5iuOIUlv5g
+git com o contexto: https://github.com/naimeaiub/Analise-de-dados-crimes-em-SP
