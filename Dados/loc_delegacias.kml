@@ -1,0 +1,2067 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>loc_delegacias_sp</name>
+	<gx:CascadingStyle kml:id="__managed_style_2F92D67E9D3253810DD4">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1633E0835C3253810DD4">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_05E5A87AB83253810DD4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1633E0835C3253810DD4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2F92D67E9D3253810DD4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="015F6462293253810DD2">
+		<name>001 DP - Sé</name>
+		<LookAt>
+			<longitude>-46.63436878326826</longitude>
+			<latitude>-23.55698031703141</latitude>
+			<altitude>770.29260642291</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>776.6093185670617</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.63438898293218,-23.5569455992358,771.4160241899098</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C8E43993D325381B194">
+		<name>002 DP - Bom Retiro</name>
+		<LookAt>
+			<longitude>-46.64429514731997</longitude>
+			<latitude>-23.52315529372151</latitude>
+			<altitude>729.501335623537</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>458.9621271941724</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.64432502903183,-23.52309775697714,730.2584377358552</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="010F5B86CD32538294A1">
+		<name>003 DP - Campos Elísios</name>
+		<LookAt>
+			<longitude>-46.63969857349937</longitude>
+			<latitude>-23.53941898581394</latitude>
+			<altitude>767.8592213445385</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>772.666947981561</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.63965313297605,-23.53942824341165,765.8906154269881</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="098D02EB69325382FD35">
+		<name>004 DP - Consolação</name>
+		<LookAt>
+			<longitude>-46.64993885942805</longitude>
+			<latitude>-23.55061138129071</latitude>
+			<altitude>784.9010499939553</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>779.106658542878</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.64989407917702,-23.55062096621146,785.332309004533</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B1BFD119B325383622E">
+		<name>005 DP - Aclimação</name>
+		<LookAt>
+			<longitude>-46.63814319204471</longitude>
+			<latitude>-23.56561912873411</latitude>
+			<altitude>781.9241214225024</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>780.0239352151402</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.6380969019005,-23.56561080857538,773.7132871746364</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08CB8655B33253A5EE42">
+		<name>006 DP - Cambuci</name>
+		<LookAt>
+			<longitude>-46.62371100001998</longitude>
+			<latitude>-23.56767150009061</latitude>
+			<altitude>777.7490807007373</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>763.2417308467121</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.62371099983927,-23.56758846425852,768.9866099075496</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04C5782B713253A653C5">
+		<name>007 DP - Lapa</name>
+		<LookAt>
+			<longitude>-46.69513669933743</longitude>
+			<latitude>-23.52940440035679</latitude>
+			<altitude>761.1951083147875</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>763.902060652472</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.69511181717855,-23.52934052350823,761.5413233179266</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E1DDE68BC3253A7944C">
+		<name>008 DP - Brás</name>
+		<LookAt>
+			<longitude>-46.59372531033981</longitude>
+			<latitude>-23.54828638113456</latitude>
+			<altitude>759.820169526961</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>142.5480652288207</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.59367959724319,-23.54825901373913,759.9352568990895</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="017ABE6B713253A91C1D">
+		<name>009 DP - Carandiru</name>
+		<LookAt>
+			<longitude>-46.61235715726453</longitude>
+			<latitude>-23.50334061735797</latitude>
+			<altitude>741.2649526974255</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>567.5594246936089</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.61272807507743,-23.50329299661846,739.7862137413998</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00EE49C5943253A98D10">
+		<name>01 DP Pessoa com Deficiência</name>
+		<LookAt>
+			<longitude>-46.63491259985874</longitude>
+			<latitude>-23.53855970011771</latitude>
+			<altitude>790.0589372692589</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>747.0110606326489</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.63492719799537,-23.53853293263086,790.5322432901692</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="095FE174083253AA61AC">
+		<name>010 DP - Penha de França</name>
+		<LookAt>
+			<longitude>-46.55791389987542</longitude>
+			<latitude>-23.52604400013153</latitude>
+			<altitude>722.3750743140982</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>767.292294466024</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.55791389980565,-23.52599374064467,725.0014772400461</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="000E0F4BD83253D1B920">
+		<name>011 DP - Santo Amaro</name>
+		<LookAt>
+			<longitude>-46.70753999614637</longitude>
+			<latitude>-23.64700169691358</latitude>
+			<altitude>755.1923386184707</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>765.5651924721315</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.70753002243089,-23.64696515213292,756.2824589885697</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BA51969A33253D203EF">
+		<name>012 DP - Pari</name>
+		<LookAt>
+			<longitude>-46.61244780205371</longitude>
+			<latitude>-23.52983810252464</latitude>
+			<altitude>739.1692525466711</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>766.5573791455245</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.61244780220389,-23.5298289530032,740.1149560128929</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0300AAB6C43253D26B30">
+		<name>013 DP - Casa Verde</name>
+		<LookAt>
+			<longitude>-46.6492114098719</longitude>
+			<latitude>-23.50045413203717</latitude>
+			<altitude>795.4300558896707</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>763.5187958694587</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.64922135000599,-23.50043590106221,796.2509873726743</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00CAB579F33253D2B1D3">
+		<name>014 DP - Pinheiros</name>
+		<LookAt>
+			<longitude>-46.69132280001109</longitude>
+			<latitude>-23.56184940002192</latitude>
+			<altitude>756.6315297816659</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>763.5393312224915</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.69133274507104,-23.56182661010906,757.3913719465739</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03445207193253D3165F">
+		<name>015 DP - Itaim Bibi</name>
+		<LookAt>
+			<longitude>-46.6745043985303</longitude>
+			<latitude>-23.58182904546608</latitude>
+			<altitude>740.9407934480748</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>765.5886018474849</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.67449442217991,-23.58181075899531,741.4501105105693</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FFEC43FA23253D3829A">
+		<name>016 DP - Vila Clementino</name>
+		<LookAt>
+			<longitude>-46.63776490008838</longitude>
+			<latitude>-23.60168170005059</latitude>
+			<altitude>801.7993225698273</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>763.2470616945648</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.63776489986979,-23.60162177274847,793.621500911827</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00E473F3CB3253D420D7">
+		<name>017 DP - Ipiranga</name>
+		<LookAt>
+			<longitude>-46.60872865239125</longitude>
+			<latitude>-23.5908941423039</latitude>
+			<altitude>791.8222953647603</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>763.9006699965103</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.60874373313638,-23.5907421177754,784.790059467276</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F36670F193253D4741C">
+		<name>018 DP - Alto da Moóca</name>
+		<LookAt>
+			<longitude>-46.59155779563731</longitude>
+			<latitude>-23.57034863395404</latitude>
+			<altitude>773.2366879817826</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>767.4559746727027</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.59152284890392,-23.57033033048618,774.934425523057</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="026A5748B93253D5576C">
+		<name>019 DP - Vila Maria</name>
+		<LookAt>
+			<longitude>-46.58473591054614</longitude>
+			<latitude>-23.51766438133285</latitude>
+			<altitude>729.8237872126105</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>767.8827206321148</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.58471590412029,-23.51762310648705,730.1892426182346</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="081110B58C3253D5AE00">
+		<name>020 DP - Água Fria</name>
+		<LookAt>
+			<longitude>-46.6208170489553</longitude>
+			<latitude>-23.47814525586983</latitude>
+			<altitude>758.4853584037967</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>765.4967721988214</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.62083698563572,-23.47813154133309,758.930298079878</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03BEF63C1D3253D605D6">
+		<name>021 DP - Vila Matilde</name>
+		<LookAt>
+			<longitude>-46.52660466974128</longitude>
+			<latitude>-23.53704505641343</latitude>
+			<altitude>784.3930606214104</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>765.3742554086057</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.52656474429655,-23.53702217914775,784.0871738002251</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06799FC8803253D65652">
+		<name>022 DP - São Miguel Paulista</name>
+		<LookAt>
+			<longitude>-46.44122030203147</longitude>
+			<latitude>-23.49630690095761</latitude>
+			<altitude>766.8587745433911</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>763.7917816347181</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.44128493944665,-23.49626130230845,767.5666800655081</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="083FA025863253D6ACE1">
+		<name>023 DP - Perdizes</name>
+		<LookAt>
+			<longitude>-46.66539654640378</longitude>
+			<latitude>-23.53702709027275</latitude>
+			<altitude>777.0077590233058</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>763.0080542899668</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.66542636011725,-23.53702253475389,777.6620687559732</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0759FEC8743253D7330C">
+		<name>024 DP - Ponte Rasa</name>
+		<LookAt>
+			<longitude>-46.49858175516017</longitude>
+			<latitude>-23.50982300902865</latitude>
+			<altitude>773.3087545849012</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>766.4195651397313</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.49857676521832,-23.50983216031239,773.9975840994841</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0033D4AFA73253D7A2DE">
+		<name>025 DP - Parelheiros</name>
+		<LookAt>
+			<longitude>-46.7348267001007</longitude>
+			<latitude>-23.82553270005122</latitude>
+			<altitude>773.8528672645951</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>765.5256978428224</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.73480671936118,-23.82551442208695,774.6906204144728</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AC006AA593253D80242">
+		<name>026 DP - Sacomã</name>
+		<LookAt>
+			<longitude>-46.60215640964996</longitude>
+			<latitude>-23.62278071434229</latitude>
+			<altitude>799.7291119981152</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>765.0177839304525</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.60214145601535,-23.62277614746008,800.5330056697038</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="096D73D5263253D844AF">
+		<name>027 DP - Campo Belo</name>
+		<LookAt>
+			<longitude>-46.67499289980631</longitude>
+			<latitude>-23.61526459990914</latitude>
+			<altitude>743.0108497750134</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>767.2225298919511</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.67499289973335,-23.6152509810711,750.5275932979769</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E43AB9D393253D894D4">
+		<name>028 DP - Freguesia do Ó</name>
+		<LookAt>
+			<longitude>-46.69771130020278</longitude>
+			<latitude>-23.49473139996693</latitude>
+			<altitude>776.0334508362273</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>764.9429202845205</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.69769623078955,-23.49468994027782,769.7822730399811</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B30CA39263253D91116">
+		<name>029 DP - Vila Diva</name>
+		<LookAt>
+			<longitude>-46.55765330012266</longitude>
+			<latitude>-23.57367709995101</latitude>
+			<altitude>800.8164708995055</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>764.6068914490025</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.55765827918389,-23.57368622736114,801.7392868211626</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06F20FFED13253D94B25">
+		<name>030 DP - Tatuapé</name>
+		<LookAt>
+			<longitude>-46.56771439965891</longitude>
+			<latitude>-23.54994980016004</latitude>
+			<altitude>790.9869238625905</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>763.5044257578556</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.56768953292899,-23.55003642336231,791.5548104453519</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="034C3B50C33253D98EB6">
+		<name>031 DP - Vila Carrão</name>
+		<LookAt>
+			<longitude>-46.53721691093055</longitude>
+			<latitude>-23.54911630309243</latitude>
+			<altitude>752.3871976008384</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>765.2987891450903</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.53722189649829,-23.54908888176559,752.8503646351061</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AA55CAF203253D9EB01">
+		<name>032 DP - Itaquera</name>
+		<LookAt>
+			<longitude>-46.45186290007063</longitude>
+			<latitude>-23.53431870006302</latitude>
+			<altitude>756.6983584227457</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>764.9463505692257</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.4518678795981,-23.53430043909894,757.6435090050225</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01B91F6B253253DA3A06">
+		<name>033 DP - Pirituba</name>
+		<LookAt>
+			<longitude>-46.74587089974352</longitude>
+			<latitude>-23.49727930001096</latitude>
+			<altitude>744.2668099454895</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>765.2637446148583</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.74589580366784,-23.49727016426125,745.0922126614557</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E00EEA33C3253DA9726">
+		<name>034 DP - Vila Sonia</name>
+		<LookAt>
+			<longitude>-46.72683720162281</longitude>
+			<latitude>-23.58807699170911</latitude>
+			<altitude>742.1997128295835</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>765.5605105970609</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.72682225812628,-23.58809525165102,743.7958973858584</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02374570923253DAF61D">
+		<name>035 DP - Jabaquara</name>
+		<LookAt>
+			<longitude>-46.64325070006409</longitude>
+			<latitude>-23.63947769994151</latitude>
+			<altitude>806.0643085309782</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>763.1503647500359</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.64319101346126,-23.63951415208064,806.7283832479422</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03C6DF59743253DBB0E7">
+		<name>036 DP - Vila Mariana</name>
+		<LookAt>
+			<longitude>-46.65087717229176</longitude>
+			<latitude>-23.579073018781</latitude>
+			<altitude>771.2760205885572</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>764.0058035872063</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.65091199978051,-23.57906389862589,772.1846371363413</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E8704D0663253DC4258">
+		<name>037 DP - Campo Limpo</name>
+		<LookAt>
+			<longitude>-46.77044729982145</longitude>
+			<latitude>-23.63292689990611</latitude>
+			<altitude>767.6349416859759</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>764.2755908437539</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.77046223702106,-23.63292689991318,768.5455524735952</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09339B51B03253DC889B">
+		<name>038 DP - Vila Amália</name>
+		<LookAt>
+			<longitude>-46.64828439982544</longitude>
+			<latitude>-23.46964019995446</latitude>
+			<altitude>802.2791730961027</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>765.3062986872828</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.6482794207074,-23.46960366256727,803.3107571972647</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="056FC65ED73253DCD0C3">
+		<name>039 DP - Vila Gustavo</name>
+		<LookAt>
+			<longitude>-46.5899043096093</longitude>
+			<latitude>-23.4834032270055</latitude>
+			<altitude>776.2477551157548</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>764.8252707901703</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.58988937868961,-23.4834032270417,777.1904389824912</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03879458E03253DD2247">
+		<name>040 DP - Vila Santa Maria</name>
+		<LookAt>
+			<longitude>-46.67793954873337</longitude>
+			<latitude>-23.49430868128137</latitude>
+			<altitude>777.4955575606301</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>765.9183263759769</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.67779480871572,-23.49444142218585,777.4218518652565</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09480DF5E73253DD78F1">
+		<name>041 DP - Vila Rica</name>
+		<LookAt>
+			<longitude>-46.51763190004269</longitude>
+			<latitude>-23.57934930009318</latitude>
+			<altitude>805.1951574007833</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>763.8670624774386</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.51762692544686,-23.57935385921434,806.1486361634562</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04529658953253DDB9DD">
+		<name>042 DP - Parque São Lucas</name>
+		<LookAt>
+			<longitude>-46.55322543309443</longitude>
+			<latitude>-23.58963355180748</latitude>
+			<altitude>786.340880395737</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>764.2474532381311</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.55324534360246,-23.58963355172045,787.2274582031707</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01B935485C3253DE027B">
+		<name>043 DP - Cidade Ademar</name>
+		<LookAt>
+			<longitude>-46.66913189991502</longitude>
+			<latitude>-23.65672319989325</latitude>
+			<altitude>769.8917268270681</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>763.7316125867801</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.66910700772884,-23.65673232006405,770.5061785095879</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F7E3B9B2F3253DE6553">
+		<name>044 DP - Guaianazes</name>
+		<LookAt>
+			<longitude>-46.41874665579081</longitude>
+			<latitude>-23.5426934725812</latitude>
+			<altitude>763.6710746678576</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>276.7564361888071</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.41877192610638,-23.54268188918848,764.0462802860908</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01057BAA973253DEC003">
+		<name>045 DP - Vila Brasilândia</name>
+		<LookAt>
+			<longitude>-46.68984871166657</longitude>
+			<latitude>-23.46914158837028</latitude>
+			<altitude>758.090409230482</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>311.552780686834</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.68991363428022,-23.46912297834483,758.7066759584105</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03074B79E33253DF1F27">
+		<name>046 DP - Perus</name>
+		<LookAt>
+			<longitude>-46.73804504806938</longitude>
+			<latitude>-23.40438712101783</latitude>
+			<altitude>782.0009009564679</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>293.1943604963454</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.73803931174997,-23.40446082214786,782.0774365258893</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="036A5873B93253E0483D">
+		<name>047 DP - Capão Redondo</name>
+		<LookAt>
+			<longitude>-46.78293671322336</longitude>
+			<latitude>-23.66457216946296</latitude>
+			<altitude>817.7894910918477</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>173.5088415191967</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.78289928130985,-23.6646542438909,818.1547719609464</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="061F82A4C0325401EDC9">
+		<name>048 DP - Cidade Dutra</name>
+		<LookAt>
+			<longitude>-46.69574380520736</longitude>
+			<latitude>-23.71223653148832</latitude>
+			<altitude>793.9256702999573</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>195.5097025706709</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.69568350993201,-23.71216253336766,793.5374482587656</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0951939ACF3253E15BDD">
+		<name>049 DP - São Mateus</name>
+		<LookAt>
+			<longitude>-46.47066733808537</longitude>
+			<latitude>-23.60583781798587</latitude>
+			<altitude>827.7662714209641</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>762.4837769924488</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.47067730298566,-23.60586521113191,826.2736406269648</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05632344843253E1AB59">
+		<name>050 DP - Itaim Paulista</name>
+		<LookAt>
+			<longitude>-46.39678648742795</longitude>
+			<latitude>-23.50512150260412</latitude>
+			<altitude>776.2357807380928</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>123.0245766513144</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.39682258212203,-23.50512003148282,776.8969139763408</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07E1A4BDB33253E23A40">
+		<name>051 DP - Butantã</name>
+		<LookAt>
+			<longitude>-46.7225398125768</longitude>
+			<latitude>-23.57182354169809</latitude>
+			<altitude>734.5574005926265</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>117.6844114036248</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.72255898570539,-23.57183338275154,735.29716000689</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00A09FE0473253E2C2F1">
+		<name>052 DP - Parque São Jorge</name>
+		<LookAt>
+			<longitude>-46.56336705227744</longitude>
+			<latitude>-23.53643671156028</latitude>
+			<altitude>753.6890783362894</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>764.2855572114786</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.56339691065919,-23.53641389948932,754.4484071286369</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EB66A86283253E30196">
+		<name>053 DP - Parque do Carmo</name>
+		<LookAt>
+			<longitude>-46.46621610020352</longitude>
+			<latitude>-23.56684830001424</latitude>
+			<altitude>794.1991904627957</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>762.4841941892373</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.46620120787662,-23.56683919978796,795.2593233319107</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="082EDB8EAE3253E3AEE4">
+		<name>054 DP - Cidade Tiradentes</name>
+		<LookAt>
+			<longitude>-46.40117446152544</longitude>
+			<latitude>-23.60511256443732</latitude>
+			<altitude>870.9712079686288</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>231.1595853427207</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.40120896733423,-23.60515655546012,872.7864296711448</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="090A90FF3D3253E3F270">
+		<name>055 DP - Parque São Rafael</name>
+		<LookAt>
+			<longitude>-46.47028262204336</longitude>
+			<latitude>-23.62357777349017</latitude>
+			<altitude>808.8123116253563</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>292.1025101457053</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.47026041789849,-23.62355403958936,817.8047310890967</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="032B728D043253E46572">
+		<name>056 DP - Vila Alpina</name>
+		<LookAt>
+			<longitude>-46.56714331209459</longitude>
+			<latitude>-23.59378502705121</latitude>
+			<altitude>788.1529760003004</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>763.5892094163137</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.56720295659154,-23.59374858804502,789.5142301274474</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="076BD365263253E4D263">
+		<name>057 DP - Parque da Moóca</name>
+		<LookAt>
+			<longitude>-46.58455889623789</longitude>
+			<latitude>-23.5689051055864</latitude>
+			<altitude>804.2248207909854</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>762.2835225339805</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.58455889634133,-23.56870470191985,804.3372933027514</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="046B9AA1F63253E51E9F">
+		<name>058 DP - Vila Formosa</name>
+		<LookAt>
+			<longitude>-46.54518596723734</longitude>
+			<latitude>-23.56245947660375</latitude>
+			<altitude>789.7123392362356</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>763.2887813734123</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.54527540878139,-23.56249135944454,790.8062504916179</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FEA6E2D983253E6707B">
+		<name>059 DP - Jardim Noemia</name>
+		<LookAt>
+			<longitude>-46.40991633118729</longitude>
+			<latitude>-23.49248200127477</latitude>
+			<altitude>741.4312988740849</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>109.4518439990316</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.40991134602875,-23.49249245143219,742.2891607507529</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02F23766B53253E7F984">
+		<name>062 DP - Ermelino Matarazzo</name>
+		<LookAt>
+			<longitude>-46.48186569978524</longitude>
+			<latitude>-23.48950990012532</latitude>
+			<altitude>756.4563986851358</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>763.9805863591029</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.48185085995812,-23.48946453340999,761.2295344138467</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A9D4ECA8A3253E899FB">
+		<name>063 DP - Vila Jacuí</name>
+		<LookAt>
+			<longitude>-46.44670104137253</longitude>
+			<latitude>-23.50965240449221</latitude>
+			<altitude>759.1663247156083</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>767.1818300274754</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.44670104137747,-23.50964324700402,760.0839472826053</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0065777ECE3253E98E20">
+		<name>064 DP - Cidade A E Carvalho</name>
+		<LookAt>
+			<longitude>-46.47543669419316</longitude>
+			<latitude>-23.524098896076</latitude>
+			<altitude>805.7107101018674</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>763.8750355716185</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.47543173044838,-23.52414895799867,808.0114032678215</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E714D723B3253EA18EF">
+		<name>065 DP - Artur Alvim</name>
+		<LookAt>
+			<longitude>-46.4811677460021</longitude>
+			<latitude>-23.54402016390785</latitude>
+			<altitude>796.4541831637321</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>764.9813950994576</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.48122754089464,-23.5440384362893,797.0021815243988</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A69EC66EE3253EA8399">
+		<name>066 DP - Vale do Aricanduva</name>
+		<LookAt>
+			<longitude>-46.49222640353202</longitude>
+			<latitude>-23.55400187121632</latitude>
+			<altitude>779.8458267703704</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>762.8143359145179</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.49224133616173,-23.55391517595448,779.075557509023</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06B049CACB3253EAD728">
+		<name>067 DP - Jardim Robru</name>
+		<LookAt>
+			<longitude>-46.41149077010309</longitude>
+			<latitude>-23.52020682935163</latitude>
+			<altitude>788.9389718695647</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>763.3599829586456</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.4114559463161,-23.52027069059222,788.9582790787223</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="013051D2F23253EB95FD">
+		<name>068 DP - Lajeado</name>
+		<LookAt>
+			<longitude>-46.39802560839793</longitude>
+			<latitude>-23.53609572662146</latitude>
+			<altitude>796.4056356419501</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>376.9371361447339</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.39823068528898,-23.53603229928812,794.7162645532304</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0746666B6C3253EBE66B">
+		<name>069 DP - Teotônio Vilela</name>
+		<LookAt>
+			<longitude>-46.50086182390008</longitude>
+			<latitude>-23.60827624651001</latitude>
+			<altitude>837.6189178696219</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>761.7547487821867</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.50083701025554,-23.60826260432337,838.4477492676684</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="052C8A88283253EC24FF">
+		<name>070 DP - Vila Ema</name>
+		<LookAt>
+			<longitude>-46.53338236333657</longitude>
+			<latitude>-23.59867472877896</latitude>
+			<altitude>779.1225030661158</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>764.3995910003287</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.53343222075947,-23.59867929762224,778.9512984668759</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DDE63FCA73253EC6E13">
+		<name>072 DP - Vila Penteado</name>
+		<LookAt>
+			<longitude>-46.67876630011398</longitude>
+			<latitude>-23.46359489998284</latitude>
+			<altitude>803.5750439821774</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>763.9449392112874</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.67876630005266,-23.46356757973698,805.5584429385324</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B09AF36A03253ECB224">
+		<name>073 DP - Jaçanã</name>
+		<LookAt>
+			<longitude>-46.58529006042782</longitude>
+			<latitude>-23.45866390316539</latitude>
+			<altitude>750.8826190785471</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>764.9281329761288</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.5853448110456,-23.45866846924451,751.6946332769484</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F9969B250325408D7A3">
+		<name>074 DP - Jaraguá</name>
+		<LookAt>
+			<longitude>-46.71685979993036</longitude>
+			<latitude>-23.44573659989206</latitude>
+			<altitude>865.0711819291253</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>763.5741903319285</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.71693437716279,-23.44574572257618,865.4133695493509</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="062509648C3253ED364C">
+		<name>075 DP - Jardim Arpoador</name>
+		<LookAt>
+			<longitude>-46.79598389999491</longitude>
+			<latitude>-23.59729810003148</latitude>
+			<altitude>800.7039146076382</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>762.0545278523059</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.79600873185252,-23.59727534448681,801.1768678047995</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B7FB043243253ED814C">
+		<name>077 DP - Santa Cecília</name>
+		<LookAt>
+			<longitude>-46.64894180105009</longitude>
+			<latitude>-23.53666750029285</latitude>
+			<altitude>748.493153745871</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>763.5533304925048</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.64891693199893,-23.53665382023785,748.9203957751662</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="066B1C80183253EDDE75">
+		<name>078 DP - Jardins</name>
+		<LookAt>
+			<longitude>-46.66929854159241</longitude>
+			<latitude>-23.56604791556599</latitude>
+			<altitude>767.6719299742297</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>760.1247609296115</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.66930844201695,-23.56605699011738,768.5002467638392</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="022C95D1893253EE2806">
+		<name>080 DP - Vila Joaniza</name>
+		<LookAt>
+			<longitude>-46.65977959774417</longitude>
+			<latitude>-23.67374440471597</latitude>
+			<altitude>807.0606793594519</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>310.1983976682459</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.65981202933309,-23.67371284591741,807.144685866307</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="091EB531C53253EE7437">
+		<name>081 DP - Belém</name>
+		<LookAt>
+			<longitude>-46.58456899999309</longitude>
+			<latitude>-23.53531830009744</latitude>
+			<altitude>748.4385184233419</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>762.1977654163494</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.58457396209242,-23.53530465260382,749.3268296759272</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B76F59DDC3253EF6417">
+		<name>083 DP - Parque Bristol</name>
+		<LookAt>
+			<longitude>-46.6137586995886</longitude>
+			<latitude>-23.65656019730791</latitude>
+			<altitude>810.7305415145997</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>763.9748383144616</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.61376367554105,-23.65653740889136,812.0305216400839</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F91BF8FED3253F01F54">
+		<name>085 DP - Jardim Mirna</name>
+		<LookAt>
+			<longitude>-46.69701989991941</longitude>
+			<latitude>-23.7706145999934</latitude>
+			<altitude>778.2644273384772</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>765.9002014932776</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.69700358652916,-23.77061665172826,779.3056511953553</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DC797D4A33253F07AB6">
+		<name>087 DP - Vila Pereira Barreto</name>
+		<LookAt>
+			<longitude>-46.725208853555</longitude>
+			<latitude>-23.48223885075609</latitude>
+			<altitude>794.0723596089222</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>418.7028688822465</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.72526372750692,-23.48207779589039,792.056442431949</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B6CAF1C8E3253F0C040">
+		<name>089 DP - Portal do Morumbi</name>
+		<LookAt>
+			<longitude>-46.7360517000277</longitude>
+			<latitude>-23.60840000012163</latitude>
+			<altitude>798.2565097355345</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>762.2464383750048</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.73606162973547,-23.60839545096379,799.235829878043</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FF5438EA43253F1129C">
+		<name>090 DP - Parque Novo Mundo</name>
+		<LookAt>
+			<longitude>-46.56976041983375</longitude>
+			<latitude>-23.50103361264194</latitude>
+			<altitude>750.5182824042768</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>763.456262706386</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.56974053597397,-23.50100626070832,751.0753193831694</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="070BFB1AD63253F150A5">
+		<name>091 DP - Ceagesp</name>
+		<LookAt>
+			<longitude>-46.73093966515117</longitude>
+			<latitude>-23.5387265917135</latitude>
+			<altitude>729.5410537842687</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>765.5428492663486</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.73091971275586,-23.53869000735495,729.7531447739439</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04515FAC7F3253F19498">
+		<name>092 DP - Parque Santo Antônio</name>
+		<LookAt>
+			<longitude>-46.7561995000364</longitude>
+			<latitude>-23.66290029996109</latitude>
+			<altitude>780.894242035271</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>761.8920065255952</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.75621439758456,-23.66281842993483,781.6466562448684</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05699D9B333253F1E735">
+		<name>093 DP - Jaguaré</name>
+		<LookAt>
+			<longitude>-46.74669939968015</longitude>
+			<latitude>-23.55874170011804</latitude>
+			<altitude>738.9817804932248</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>762.566891863753</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.74667954900507,-23.55880083760249,740.2515617915221</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="095D64ECAB3253F22F88">
+		<name>095 DP - Heliópolis</name>
+		<LookAt>
+			<longitude>-46.59499132126471</longitude>
+			<latitude>-23.6038130638629</latitude>
+			<altitude>773.7509155873705</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>763.0652102499881</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.59495150502576,-23.60384954905242,773.6042507467666</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D22C21F923253F27351">
+		<name>096 DP - Monções</name>
+		<LookAt>
+			<longitude>-46.69289426586224</longitude>
+			<latitude>-23.60429249981017</latitude>
+			<altitude>736.432906336171</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>763.5769716438518</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.69285938851123,-23.60437011512808,735.9314759398145</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="021F7C3DE33253F2B6F1">
+		<name>097 DP - Americanópolis</name>
+		<LookAt>
+			<longitude>-46.63325330079878</longitude>
+			<latitude>-23.65362069940101</latitude>
+			<altitude>784.4730999650468</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>763.3916899145697</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.63324335854104,-23.65357061050929,785.856859959337</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0282B9BA0032540F1248">
+		<name>098 DP - Jardim Míriam</name>
+		<LookAt>
+			<longitude>-46.63724702881574</longitude>
+			<latitude>-23.68515094656154</latitude>
+			<altitude>791.929686018488</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>246.1640446626553</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.6372181886719,-23.68515681567466,793.1579167659739</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="066D09FDC03253F348B8">
+		<name>099 DP - Campo Grande</name>
+		<LookAt>
+			<longitude>-46.68705039889274</longitude>
+			<latitude>-23.66198640061559</latitude>
+			<altitude>747.5643354708434</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>762.9112646350404</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.68704542708387,-23.66200006143713,748.4144178106881</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D02750A063253F38497">
+		<name>100 DP - Jardim Herculano</name>
+		<LookAt>
+			<longitude>-46.75996169992907</longitude>
+			<latitude>-23.69298879989267</latitude>
+			<altitude>816.3024494791127</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>762.6296568028193</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.75995175119246,-23.69293413982463,816.7099074349087</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00788AA95D32540FB6DF">
+		<name>101 DP - Jardim das Imbuias</name>
+		<LookAt>
+			<longitude>-46.70942899116631</longitude>
+			<latitude>-23.72979803361845</latitude>
+			<altitude>784.0258252731566</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>766.0654577767127</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.70930908332012,-23.72987121361516,784.6964509250242</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03082F481B3254100F42">
+		<name>102 DP - Socorro</name>
+		<LookAt>
+			<longitude>-46.71205599554024</longitude>
+			<latitude>-23.6762477857735</latitude>
+			<altitude>751.4201046496704</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>762.0106758343172</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.71211060173624,-23.67627961027177,752.5940075640187</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0772210B7A3254105026">
+		<name>103 DP - Cohab Itaquera</name>
+		<LookAt>
+			<longitude>-46.43686561054318</longitude>
+			<latitude>-23.55194530484555</latitude>
+			<altitude>815.4740568038862</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>763.1699266438955</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.43686561036509,-23.5519407490598,816.295349138588</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E4BFD6F753254158971">
+		<name>1ª DDM - 1ª Seccional - Centro</name>
+		<LookAt>
+			<longitude>-46.63145369015628</longitude>
+			<latitude>-23.5479631100839</latitude>
+			<altitude>741.930219126725</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>302.3496513090504</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.63148320106623,-23.54798655640701,742.9489843350456</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C95C31A053254165DB2">
+		<name>2ª DDM - 2ª Seccional - Sul</name>
+		<LookAt>
+			<longitude>-46.63774210524022</longitude>
+			<latitude>-23.60166151878773</latitude>
+			<altitude>801.5116895944658</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>764.014425654168</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.63774707661752,-23.60179362225044,803.2423665214609</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07FC5CE1ED325416E9D7">
+		<name>3ª DDM - 3ª Seccional - Oeste</name>
+		<LookAt>
+			<longitude>-46.74665759977265</longitude>
+			<latitude>-23.55878820020737</latitude>
+			<altitude>739.4242856711616</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>762.7747022196127</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.74652237210547,-23.55878820016594,733.8681940578942</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0751DF2FBA325417887F">
+		<name>4ª DDM - 4ª Seccional - Norte</name>
+		<LookAt>
+			<longitude>-46.69761179359378</longitude>
+			<latitude>-23.49475898083677</latitude>
+			<altitude>769.5955310429515</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>443.9659422772093</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.69800762862877,-23.49470413567911,776.8828709832756</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06263B67403254180769">
+		<name>5ª DDM - 5ª Seccional - Leste</name>
+		<LookAt>
+			<longitude>-46.5631503880706</longitude>
+			<latitude>-23.53649530656825</latitude>
+			<altitude>745.1069865117272</altitude>
+			<heading>8.537736462515939e-07</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>318.7377901331638</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.56338098150039,-23.5362801876381,753.9964066214777</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D9574BAF132541998CF">
+		<name>6ª DDM - 6ª Seccional - Santo Amaro</name>
+		<LookAt>
+			<longitude>-46.70744664343517</longitude>
+			<latitude>-23.64689540130906</latitude>
+			<altitude>754.6599530938993</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>764.23011639381</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.7073918542271,-23.64689996376421,755.3327006780263</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="026DACE84E32541AA4CB">
+		<name>7ª DDM - 7ª Seccional - Itaquera</name>
+		<LookAt>
+			<longitude>-46.4459629867419</longitude>
+			<latitude>-23.54487436310062</latitude>
+			<altitude>754.3725530502992</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>112.0601003765842</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.44593115397358,-23.54487635281429,756.1607614988486</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02910C6F1B32541B4575">
+		<name>8ª DDM - 8ª Seccional São Mateus</name>
+		<LookAt>
+			<longitude>-46.50080229965377</longitude>
+			<latitude>-23.60822129981275</latitude>
+			<altitude>837.1821246656215</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>761.2671848020545</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.50092632454984,-23.60832130701677,837.7919014499994</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FF5D32D1D32541B9736">
+		<name>9ª DDM - 3ª Seccional - Oeste</name>
+		<LookAt>
+			<longitude>-46.69124790019885</longitude>
+			<latitude>-23.56182109993106</latitude>
+			<altitude>757.4914035344921</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>763.2106728635699</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.69108386295576,-23.56176642298798,758.1871457475373</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0011C78A0832541E12CC">
+		<name>Central de Flagrantes II - 91 DP</name>
+		<LookAt>
+			<longitude>-46.73082784573087</longitude>
+			<latitude>-23.53826458120291</latitude>
+			<altitude>720.9886000064944</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>444.5064438942791</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.7309016880365,-23.53873065543207,730.0879146856416</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00203A1C5932541F384D">
+		<name>Del. Aeroporto Int. SP - Guarulhos (SP)</name>
+		<LookAt>
+			<longitude>-46.4758893217901</longitude>
+			<latitude>-23.42389099782329</latitude>
+			<altitude>770.5699206628504</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2078.655185461685</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.4762005318599,-23.42392824457439,769.9931473951083</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09A668416432541FEB9A">
+		<name>Del. Aeroporto Int. Viracopos - CPS (SP)</name>
+		<LookAt>
+			<longitude>-47.14801255110702</longitude>
+			<latitude>-23.00806317729449</latitude>
+			<altitude>644.5931422690019</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>873.1975137998234</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-47.1485948002006,-23.00858349558378,646.8060187314904</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="081298D3303254204A15">
+		<name>Del. Aeroporto SP - Congonhas</name>
+		<LookAt>
+			<longitude>-46.66190010097877</longitude>
+			<latitude>-23.62434189870707</latitude>
+			<altitude>800.0867089549731</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>760.7682637982361</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.66190505703464,-23.62434189879574,801.0214687425424</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F8F4C82A13254215C8D">
+		<name>Del. Pol. Atendimento ao Turista</name>
+		<LookAt>
+			<longitude>-46.67211089652798</longitude>
+			<latitude>-23.5186891355931</latitude>
+			<altitude>735.318599701243</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>762.9315682120796</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.67209104505427,-23.51864818002187,736.6833795934841</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0587FE610B325421A38C">
+		<name>Delegacia de Proteção ao Idoso - 1ª Seccional - Centro</name>
+		<LookAt>
+			<longitude>-46.64354075865973</longitude>
+			<latitude>-23.54391714828748</latitude>
+			<altitude>767.7434032370292</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>759.3538276197069</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.64353580803124,-23.54388538008781,767.6245330882812</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D03D0AD78325422974F">
+		<name>Delegacia do Idoso - 2ª Seccional - Sul</name>
+		<LookAt>
+			<longitude>-46.64338858261964</longitude>
+			<latitude>-23.63984722286983</latitude>
+			<altitude>805.8640673786927</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>233.8294593681712</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.64334366287275,-23.63987844026242,802.8598449106072</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D100155FA3254232BB0">
+		<name>Delegacia do Idoso - 3ª Seccional - Oeste</name>
+		<LookAt>
+			<longitude>-46.69124789192352</longitude>
+			<latitude>-23.561821113498</latitude>
+			<altitude>757.4915544505978</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>763.597414286487</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.69117321484937,-23.5618530574157,757.3985873683132</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D4CE52D6A325424533B">
+		<name>Delegacia do Idoso - 4ª Seccional - Norte</name>
+		<LookAt>
+			<longitude>-46.69772193038566</longitude>
+			<latitude>-23.494813329717</latitude>
+			<altitude>775.5355843735696</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>347.5106010439777</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.69786417374477,-23.49473464498747,777.0049132020113</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04ABE40B493254254ED8">
+		<name>Delegacia do Idoso - 5ª Seccional - Leste</name>
+		<LookAt>
+			<longitude>-46.56275022385341</longitude>
+			<latitude>-23.54911358936673</latitude>
+			<altitude>784.6769037650297</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>437.2260354489845</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.56273314313729,-23.54914490553095,785.5633876256464</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0325ABAFD5325425B527">
+		<name>Delegacia do Idoso - 6ª Secional - Santo Amaro</name>
+		<LookAt>
+			<longitude>-46.7072767095088</longitude>
+			<latitude>-23.64698340484183</latitude>
+			<altitude>748.6738588004105</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>563.7828666539281</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.70729876220384,-23.64697667122725,749.2260481124733</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C90B19DE2325426034B">
+		<name>Delegacia do Idoso - 7ª Seccional - Itaquera</name>
+		<LookAt>
+			<longitude>-46.48116244502113</longitude>
+			<latitude>-23.54396330362457</latitude>
+			<altitude>796.5749003627444</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>421.6849915262719</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.4810965138586,-23.54399856181153,797.2185891078549</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03C1D7394D325426515E">
+		<name>Delegacia do Idoso - 8ª Seccional - São Mateus</name>
+		<LookAt>
+			<longitude>-46.46064790790096</longitude>
+			<latitude>-23.56948009013175</latitude>
+			<altitude>811.5377730769769</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>765.435351560518</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.46057315349458,-23.56942070787542,812.5921117903121</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DCD2DF7A8325426AA1B">
+		<name>Delegacia Porto de Santos (SP)</name>
+		<LookAt>
+			<longitude>-46.30987190004105</longitude>
+			<latitude>-23.95378630004184</latitude>
+			<altitude>14.009721790745</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>762.1220673768403</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.30982710487843,-23.95377720286894,14.18576740757028</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A17D8F4CA3254270CC7">
+		<name>DELPOL Metropolitano</name>
+		<LookAt>
+			<longitude>-46.66813179517315</longitude>
+			<latitude>-23.52599920592977</latitude>
+			<altitude>738.2418553948877</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>763.3350438617346</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E5A87AB83253810DD4</styleUrl>
+		<Point>
+			<coordinates>-46.66746232028277,-23.5255250559105,739.2097098922615</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
